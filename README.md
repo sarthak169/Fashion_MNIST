@@ -29,23 +29,23 @@ For Linux people, your package manager should be able to handle all of this. If 
 ![](https://github.com/sarthak169/Fashion_MNIST/blob/master/fashion.png)
 
 # Libraries Used 
->-Pandas
->-NumPy
->-Seaborn
->-Matplotlib.pyplot
->-Missingno
->-sklearn
+>- Pandas
+>- NumPy
+>- Seaborn
+>- Matplotlib.pyplot
+>- Missingno
+>- sklearn
 
 # Training Models Used
->-Logistic Regression
->-KNN (K Nearest Neibhour)
+>- Logistic Regression
+>- KNN (K Nearest Neibhour)
 >- Naive Bayes
->-Support Vector Machine(Linear)
->-SVM (Radial baised Function)
->-Decision Tree(Ginni)
->-Decision Tree(Entropy)
->-Random Forest Classifier(Ginni)
->-Random Forest Classifier(Entropy)
+>- Support Vector Machine(Linear)
+>- SVM (Radial baised Function)
+>- Decision Tree(Ginni)
+>- Decision Tree(Entropy)
+>- Random Forest Classifier(Ginni)
+>- Random Forest Classifier(Entropy)
 
 # Performance Mertices Used:
 >- Accuracy Score
